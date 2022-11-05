@@ -6,7 +6,7 @@ This is a homepage for Horiseon that has been refactored to meet the accessibili
 
 
 ### Link to finished project:
-
+https://honey25k.github.io/html-horiseon-refactoring/
 
 ### Usage
 You can use this page to navigate around to specific articles. On the upper corner to the right you can see the navigation bar for different sections of the page. You can view each section by clicking on one of the bars. 
